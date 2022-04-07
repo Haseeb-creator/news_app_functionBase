@@ -12,3 +12,24 @@ code {
 .infinite-scroll-component {
   overflow: hidden !important;
 }
+
+/* .card-item {
+  display: grid;
+  width: 320px;
+  height: 415px;
+}
+
+.card-body {
+  display: grid;
+  height: auto;
+  max-height: 300px;
+  width: auto;
+  max-width: 300px;
+}
+*/
+.badge-style {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+}
